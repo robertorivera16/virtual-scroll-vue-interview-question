@@ -1,6 +1,7 @@
 <template>
   <div class="text-center mt-5">
-    <v-menu>
+    <v-menu top
+      :offset-x="offset">
       <template v-slot:activator="{ on, attrs }">
         <v-btn color="primary" dark v-bind="attrs" v-on="on">
           Show List
