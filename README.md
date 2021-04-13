@@ -12,7 +12,7 @@ Single file Vue component (.vue file) that will receive as a prop an array of st
 
 #### Preview
 
-[Virtual Scroller Preview](VirtualScroller-Preview.mp4)
+![Virtual Scroller Preview](VirtualScroller-Preview.mp4)
 
 #### Benefits of Virtual Scrolling
 
