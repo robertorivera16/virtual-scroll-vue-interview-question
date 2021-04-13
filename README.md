@@ -1,8 +1,8 @@
-# question2
+# Virtual Scroll Component in Vue.JS
 
-## Project setup
+## Requirements
 ```
-npm install
+ install
 ```
 
 ### Compiles and hot-reloads for development
